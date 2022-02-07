@@ -4,7 +4,7 @@
     margin: 0%;
 }
 .body{
-    background: url(/image/solid-green-background.jpg);
+    background: url(/image/greenimage.jpg);
     min-height: 100vh;
     display: flex;
     justify-content: center;
